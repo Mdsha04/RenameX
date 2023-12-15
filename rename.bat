@@ -1,7 +1,7 @@
 @echo off
 echo.
 
-set NodePackagesPath=C:\Users\a886997\OneDrive - Atos\Desktop\RenameX // This is my path, you can edit them
+set NodePackagesPath= // This is my path, you can edit them
 
 set Path=%NodePackagesPath%\node_modules\.bin;%PATH%
 set Path=%NodePackagesPath%;%PATH%
